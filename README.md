@@ -21,8 +21,8 @@ This project is a Go application that manages processes and schedules tasks base
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/my-go-project.git
-    cd my-go-project
+    git clone https://github.com/citizen-nsl/autostart.git
+    cd autostart
     ```
 
 2. **Initialize the Go module:**
@@ -30,7 +30,7 @@ This project is a Go application that manages processes and schedules tasks base
     If not already initialized, create a `go.mod` file by running:
 
     ```sh
-    go mod init my-go-project
+    go mod init autostart
     ```
 
 3. **Install dependencies:**
@@ -64,7 +64,7 @@ This project is a Go application that manages processes and schedules tasks base
 To run the application, use:
 
 ```sh
-go run main.go
+go run autowithu.go
 ```
 
 ```sh
