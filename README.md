@@ -1,4 +1,4 @@
-# My Project AutoStart
+# AutoStart
 
 This project is a Go application that manages processes and schedules tasks based on a configuration file. The application is designed to handle process termination, window management, and batch file execution on Windows systems.
 
